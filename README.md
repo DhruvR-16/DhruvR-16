@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Dhruv</h1>
 
-
-**Personal Website:** [https://dhruv-ramani.vercel.app/](https://dhruv-ramani.vercel.app/)
+**Personal Website:** [https://dhruv-ramani.vercel.app/](https://dhruv-ramani.vercel.app/)<br>
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/dhruv-ramani1/) · [Email](mailto:dhruvramani006@gmail.com)
 
 > Currently building [Supermerco](https://supermerco.com): synthetic, independently checked test patients for healthcare software and AI teams
 
@@ -11,18 +11,16 @@ I'm curious about pretty much everything in AI: how machines **see**, how they *
 
 Right now that problem is healthcare data. At [Supermerco](https://supermerco.com) we generate synthetic FHIR test patients from a test plan, and every dataset ships with a Data Passport that says what was covered, what wasn't, and where the gaps are. No real patient data, no guessing.
 
-I really like space, especially the "wait, there's a planet hiding in that data?" kind. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dhruv-ramani1/) or by [email](mailto:dhruvramani006@gmail.com).
-
-I build a lot of my stuff with Claude by my side, and honestly, we make a pretty good team :-)
+I really like space, especially the "wait, there's a planet hiding in that data?" kind. Enough that I wrote a [sole-author preprint](https://doi.org/YOUR-DOI) on finding exoplanets in NASA TESS data with machine learning.
 
 ---
 
 ### 🧭 What I love working on
 
 - 🧠 **AI & Machine Learning**: models that make useful decisions, tested hard until I trust them
-- 👁️ **Computer Vision & 3D**: teaching machines to understand images, motion and shape
+- 👁️ **Computer Vision & 3D**: teaching machines to understand images, motion and shape. I cut a real-time pose tracker's false alerts from **61% to 5%**, and turned flat 2D images into 3D meshes benchmarked against Hunyuan3D-2
 - 🎮 **Reinforcement Learning**: agents that learn by doing
-- 🔭 **Space & Science**: finding faint signals in real scientific data
+- 🔭 **Space & Science**: finding faint signals in real scientific data, from exoplanets in TESS light curves to physics checks that weed out false alarms
 
 ### ⚙️ How I build
 
