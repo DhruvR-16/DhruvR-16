@@ -34,12 +34,11 @@ I really like space, especially the "wait, there's a planet hiding in that data?
 - Building [Supermerco](https://supermerco.com)
 - Going deeper into reinforcement learning
 - Exploring 3D vision and neural rendering
-- Contributing to open-source AI and astronomy tools
 
 ### 🤖 Skill level
 
 ```python
-me          = ["Python", "ML", "Computer Vision", "RL", "Space"]
+me          = ["Python", "ML", "Computer Vision", "RL"]
 me + claude = ["everything", "faster", "at 2 AM", "with better commit messages"]
 ```
 
