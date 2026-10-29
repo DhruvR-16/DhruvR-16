@@ -47,8 +47,7 @@ me + claude = ["everything", "faster", "at 2 AM", "with better commit messages"]
 <details>
 <summary><b>🛠️ Tech stack</b></summary>
 <br>
-
-**Languages:** Python · SQL<br>
+**Languages:** Python · TypeScript · SQL <br>
 **AI / ML:** PyTorch · scikit-learn · NumPy · Pandas · Hugging Face<br>
 **Vision & 3D:** OpenCV · MediaPipe · COLMAP · Gaussian Splatting<br>
 **Science:** Astropy · Lightkurve<br>
